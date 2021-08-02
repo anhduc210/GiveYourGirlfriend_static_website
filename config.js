@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Cóoooooooo',
     question:'=_)))) đùa thôi có mà có điều gì muốn nói ko',
     btnReply: 'Gửi cho Anh Đức',
-    reply: 'hi',
+    reply: '',
     mess: 'Gửi tin nhắn cám ơn tới Anh Đức',
     messDesc: 'Người cuối cùng luôn là người =))) tốt nhất mà ',
     btnAccept: 'Okiiiii lun <3',
